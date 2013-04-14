@@ -1,0 +1,78 @@
+.learn{
+	float: left;
+	color:black;
+	font-family:times new roman;
+
+}
+
+
+
+.main{
+	margin: 10px;
+	border: 2px solid blue;
+	padding: 10px;
+	font-size: 30px;
+
+	color:blue;
+	font-family:serif;
+
+	text-align: center;
+}
+
+
+
+
+.pics{
+	display: block;
+	/*position: absolute;*/
+	/*z-index: -1;*/
+}
+
+.sea{
+	height: 300px;
+	width: 200px;
+}
+.cat{
+	height: 300px;
+	width: 200px;
+}
+.dog{
+	height: 300px;
+	width: 200px;
+}
+
+
+
+table{
+	border: 1px solid black;
+}
+
+
+td{
+	border: 1px solid blue;
+}
+
+
+
+.body{
+	margin: 10px;
+	background-color:yellow;
+}
+
+
+
+a:link{
+	color:red;
+}
+a:hover{
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+table{
+	color: blue;
+	display:inline-block;
+}
